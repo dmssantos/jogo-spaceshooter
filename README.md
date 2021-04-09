@@ -8,4 +8,4 @@
 
 &nbsp;
 
-:link: https://dmssantos.github.io/Jogo_spaceshooter/
+:link: https://dmssantos.github.io/jogo-spaceshooter/
